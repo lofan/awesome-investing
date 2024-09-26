@@ -18,7 +18,7 @@ I shared more information on some of these software in this blog article : [http
 | Link          | Description   |
 |:--------------|:--------------|
 |[Investopedia](https://www.investopedia.com/)|❤️ Encyclopedia for all things investing & investment simulation game|
-|[TradingView](https://www.tradingview.com/chart))|❤️ Real Time Charts|
+|[TradingView](https://www.tradingview.com/chart)|❤️ Real Time Charts|
 
 # Screeners / Stock research
 
